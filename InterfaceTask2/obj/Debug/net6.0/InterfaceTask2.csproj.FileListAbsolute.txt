@@ -1,0 +1,15 @@
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\bin\Debug\net6.0\InterfaceTask2.exe
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\bin\Debug\net6.0\InterfaceTask2.deps.json
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\bin\Debug\net6.0\InterfaceTask2.runtimeconfig.json
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\bin\Debug\net6.0\InterfaceTask2.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\bin\Debug\net6.0\InterfaceTask2.pdb
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\refint\InterfaceTask2.dll
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.pdb
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\InterfaceTask2.genruntimeconfig.cache
+C:\Users\orkha\OneDrive\Masaüstü\AB106T\InterfaceTask2\InterfaceTask2\obj\Debug\net6.0\ref\InterfaceTask2.dll
